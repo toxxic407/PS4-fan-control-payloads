@@ -1,5 +1,5 @@
 # PS4-fan-control-payloads
-Collection of Payloads used to control the fan of PS4's on version 5.05</br>
+Collection of Payloads used to control the fan of PS4's on version 5.05 and 4.55</br>
 All Credit goes to ethylamine, Zer0xFF, theorywrong, xvortex, and zecoxao</br>
 The name is equal to the Temperature threshhold in degrees</br></br>
 
