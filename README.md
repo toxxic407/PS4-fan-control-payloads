@@ -5,6 +5,7 @@ The name of the payload is equal to the degrees in celsius the PS4 is going to t
 65.bin = 65°
 
 Multi FW works on 6.72 and probably most other hackable Versions
+The Code I used is from here: https://github.com/Scene-Collective/ps4-fan-threshold/
 
 Most of the Payloads are not tested and might not work!
 I do not take any responsibility and i am not liable for any damage done to your PS4!
